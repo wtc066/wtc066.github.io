@@ -230,7 +230,6 @@ a img {
     height: auto;
     visibility: hidden;
     position: absolute;
-    left: 400px;
     background: #fff;
     z-index: +1;
 }
